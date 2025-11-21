@@ -1,0 +1,8 @@
+C:\QuanLyHocSinh\QuanLyHocSinh\bin\Debug\QuanLyHocSinh.exe.config
+C:\QuanLyHocSinh\QuanLyHocSinh\bin\Debug\QuanLyHocSinh.exe
+C:\QuanLyHocSinh\QuanLyHocSinh\bin\Debug\QuanLyHocSinh.pdb
+C:\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.csproj.AssemblyReference.cache
+C:\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.csproj.CoreCompileInputs.cache
+C:\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.exe
+C:\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.pdb
+C:\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.exe.config
